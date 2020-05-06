@@ -105,7 +105,49 @@ _Oracle Market Place_ are Managed VM Images or Stacks from **Third-Party** Vendo
 - 99.99% uptime Computer running in One AD Region with Measurements of Region Unavailability.
 - 99.95% uptime Computer in Multiple FDs in a Single AD.
 
-| Category | 10% Region Unavailability | 25% Region Unavailability | 10% Ad Unavailability | 25% Ad Unavailability |
-| Compute | 99.9% | 99.9% | 99.95% | 99% |
-| Block Vloumes | 99.9% | 99% | | |
-|
+| Category      | 10% Region Unavailability | 25% Region Unavailability | 10% Ad Unavailability | 25% Ad Unavailability |
+| ------------- | ------------------------- | ------------------------- | --------------------- | --------------------- |
+| Compute       | 99.9%                     | 99.9%                     | 99.95%                | 99%                   |
+| Block Vloumes | 99.9%                     | 99%                       |                       |                       |
+
+---
+
+| Category       | SLA Breach 10% | SLA Breach 25% |
+| -------------- | -------------- | -------------- |
+| Object Storage | 99.9%          | 99%            |
+| Fast Connect   | 99.9%          | 99%            |
+
+> ### Manageability SLAs
+
+| Category      | SLA Breach 10% | SLA Breach 25% |
+| ------------- | -------------- | -------------- |
+| Compute       | 99.9%          | 99%            |
+| Block Vloumes | 99.9%          | 99%            |
+| DataBase      | 99.9%          | 99%            |
+
+> ### Performance SLAs
+
+| Category      | SLA Breach 10% | SLA Breach 25% |
+| ------------- | -------------- | -------------- |
+| Compute       | 99.9%          | 99%            |
+| Block Vloumes | 99.9%          | 99%            |
+| DataBase      | 99.9%          | 99%            |
+
+> ## Service Limits
+>
+> When you sign-up for OCI, **a Set of Service Limits is configured for your tenancy.** The service limits is the quota or allowance set on a resource.
+
+- eg Your Tenancy is allowed a Maximum Number of Compute Instances per AD.
+
+These Limits are generally Established with your Oracle sales representative when your purchase _Oracle Cloud Infrastructure_. If you didn't Establish your limits with your oracle sales representative, or if you signed up through the Oracle Store, Default or Trail limits are set for your tenancy.
+
+These limits may be increased for you automatically based on your Oracle Cloud Infrastructure resource useage and account standing. **You can also request a service limit increase.**
+
+# Support
+
+Oracle has a Support Plan called as **Premier Support**
+Rapid Resolution through _24/7 access to the Oracle Knowledgebase, Techinical Support, Auto Service Request (ASR)_, Priority Request Handling, Remote Dignostics, and Two Hour Onsite Hardware Service.
+
+Oracle has a live chat in the oracle Console.
+
+> You have to talk to a sales person to get a quote, The premier Support pricing is not clear or easily accessible.\*
