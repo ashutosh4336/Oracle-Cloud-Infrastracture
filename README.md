@@ -154,9 +154,9 @@ Oracle has a live chat in the oracle Console.
 
 # Shared Security Model
 
-> ### OCI
+> ### **OCI**
 >
-> OCI is responsible for
+> **OCI is responsible for**
 
 - Core Services **[ Software ]**
 
@@ -167,9 +167,9 @@ Oracle has a live chat in the oracle Console.
 
 - Global Innfrastructure **[ Hardware / Global Infrastructure ]** 1. Region 2. Availability Domain 3. Physical Security
 
-> ### Customer
+> ### **Customer**
 >
-> Customer is responsible for
+> **Customer is responsible for**
 
 - Configuration of Managed Services or Third-party Software
 
