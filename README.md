@@ -49,11 +49,11 @@ OCI Cost analysis will help you visualize your onging cost.
 
 You can Filter based on Compartments, Tagged Resources and Start and End date.
 
-> <div align="center">Amount Used</div>
+> ### Amount Used
 
 ![costUsed](https://i.ibb.co/cgpndjf/costUsed.png)
 
-> <div align="center">Breakdown of Useage</div>
+> ### Breakdown of Useage
 
 ![costUsed](https://i.ibb.co/yQymC5D/cost-Break-Down.png)
 
@@ -151,3 +151,42 @@ Rapid Resolution through _24/7 access to the Oracle Knowledgebase, Techinical Su
 Oracle has a live chat in the oracle Console.
 
 > You have to talk to a sales person to get a quote, The premier Support pricing is not clear or easily accessible.\*
+
+# Shared Security Model
+
+> ### OCI
+>
+> OCI is responsible for
+
+- Core Services **[ Software ]**
+
+      	1. Compute
+      	2. Storage
+      	3. Database
+      	4. Networking
+
+- Global Innfrastructure **[ Hardware / Global Infrastructure ]** 1. Region 2. Availability Domain 3. Physical Security
+
+> ### Customer
+>
+> Customer is responsible for
+
+- Configuration of Managed Services or Third-party Software
+
+1. Platforms
+2. Application
+3. Identity and Access Management
+
+- Configuration of Virtual Infrastructure and Systems
+
+1. Operating System
+2. Network
+3. Firewall
+
+- Security and configuration of Data
+
+1. Client Side Data-Encryption
+2. Server Side Encryption
+3. Networking Traffic Protection
+
+> More Importantly **Customer Data** Protection is Primary Responsibilty of Owner
