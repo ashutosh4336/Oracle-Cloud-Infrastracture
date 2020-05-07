@@ -160,10 +160,10 @@ Oracle has a live chat in the oracle Console.
 
 - Core Services **[ Software ]**
 
-      	1. Compute
-      	2. Storage
-      	3. Database
-      	4. Networking
+1. Compute
+2. Storage
+3. Database
+4. Networking
 
 - Global Innfrastructure **[ Hardware / Global Infrastructure ]** 1. Region 2. Availability Domain 3. Physical Security
 
@@ -189,4 +189,4 @@ Oracle has a live chat in the oracle Console.
 2. Server Side Encryption
 3. Networking Traffic Protection
 
-> More Importantly **Customer Data** Protection is Primary Responsibilty of Owner
+> **More Importantly **Customer Data** Protection is Primary Responsibilty of Owner**
